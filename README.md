@@ -1,6 +1,6 @@
 # Image-Classification
 ## This is the Submission for last project from Dicoding 'Belajar Machine Learning' Course  
-Here's the Submissions Criteria that must be completed:
+Here's the Submission Criteria that must be completed:
 
 1. Dataset yang dipakai haruslah dataset berikut : rockpaperscissors, atau gunakan link ini pada wget command: https://github.com/dicodingacademy/assets/releases/download/release/rockpaperscissors.zip.
 
